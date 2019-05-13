@@ -1,0 +1,9 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_DragAndDrop\WinForms_DragAndDrop\WinForms_DragAndDrop\bin\Debug\WinForms_DragAndDrop.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_DragAndDrop\WinForms_DragAndDrop\WinForms_DragAndDrop\bin\Debug\WinForms_DragAndDrop.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_DragAndDrop\WinForms_DragAndDrop\WinForms_DragAndDrop\bin\Debug\WinForms_DragAndDrop.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_DragAndDrop\WinForms_DragAndDrop\WinForms_DragAndDrop\obj\Debug\WinForms_DragAndDrop.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_DragAndDrop\WinForms_DragAndDrop\WinForms_DragAndDrop\obj\Debug\WinForms_DragAndDrop.Form1.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_DragAndDrop\WinForms_DragAndDrop\WinForms_DragAndDrop\obj\Debug\WinForms_DragAndDrop.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_DragAndDrop\WinForms_DragAndDrop\WinForms_DragAndDrop\obj\Debug\WinForms_DragAndDrop.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_DragAndDrop\WinForms_DragAndDrop\WinForms_DragAndDrop\obj\Debug\WinForms_DragAndDrop.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_DragAndDrop\WinForms_DragAndDrop\WinForms_DragAndDrop\obj\Debug\WinForms_DragAndDrop.pdb
